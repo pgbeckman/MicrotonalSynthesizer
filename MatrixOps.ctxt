@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=mat
+comment0.target=double[][]\ rref(double[][])
+comment0.text=\n\ @author\ Martijn\ Courteaux\ \n
+comment1.params=input
+comment1.target=double[][]\ rrefNoStasis(double[][])
+comment2.params=input\ col1\ col2
+comment2.target=double[][]\ columnSwap(double[][],\ int,\ int)
+comment3.params=input
+comment3.target=void\ printMatrix(double[][])
+numComments=4

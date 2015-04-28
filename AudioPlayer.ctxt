@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=freq\ duration
+comment0.target=double[]\ generateTone(double,\ double)
+comment1.params=freq\ duration
+comment1.target=void\ play(double,\ double)
+comment2.params=allFrequencies\ duration
+comment2.target=void\ playMultiple(java.util.ArrayList,\ double)
+numComments=3
